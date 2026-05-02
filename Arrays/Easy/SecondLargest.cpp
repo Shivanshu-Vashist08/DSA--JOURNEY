@@ -10,3 +10,5 @@ int getSecondLargest(int *arr, int n) {
    }
    return secondlargest;
 }
+// Time Complexity -> O(n)
+// space Complexity -> O(1)
